@@ -1,0 +1,22 @@
+textarea {
+	width: 580px;
+	height: 195px;
+}
+input {
+	width: 580px;
+	height: 35px;
+
+}
+p {
+	padding: 5px;
+	font-size: 18px;
+}
+
+button {
+	width: 113px;
+	height: 38px;
+	background: #4aaaa5;
+	color: white;
+	font-size: 18px;
+	border: 0;
+}
