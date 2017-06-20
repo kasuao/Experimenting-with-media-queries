@@ -22,7 +22,7 @@ h1 {
 	font-weight: bold;
 }
 
-@media(min-width: 768px) {
+@media screen and (max-width: 768px) {
 		h1 {
 			margin-right: 20px;
 		}
@@ -100,7 +100,7 @@ hr {
 	margin: 0;
 }
 
-@media(min-width: 768px) {
+@media screen and (max-width: 768px) {
 		#about {
 		width: 400px;
 		margin: 0px;
@@ -134,7 +134,7 @@ hr {
 	text-align: center;
 }
 
-@media(min-width: 768px;) {
+@media screen and (max-width: 768px;) {
 	#connect {
 		margin: 20px 0px 0px 50px;
 	}
